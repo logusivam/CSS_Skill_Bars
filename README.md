@@ -3,7 +3,7 @@
 This project demonstrates how to create animated skill bars using HTML and CSS. These skill bars are perfect for personal portfolios, resumes, or any web page where you want to showcase different skill levels visually.
 
 ## Demo
-
+![Screenshot 2024-06-03 131525](https://github.com/logusivam/CSS_Skill_Bars/assets/106108501/c68e02ae-6e43-4921-8a65-fe00f8acb0b1)
 You can see a live demo of the project [here](https://logusivam.github.io/CSS_Skill_Bars/).
 
 ## Features
